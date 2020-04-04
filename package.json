@@ -1,0 +1,7 @@
+{
+  "name": "yarn_v2_project",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
